@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028115111439",
+    "firebase_url": "https://fin-grading.firebaseio.com",
+    "project_id": "fin-grading",
+    "storage_bucket": "fin-grading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028115111439:android:17a538defd7c961be8cd7a",
+        "android_client_info": {
+          "package_name": "com.example.fin_grading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028115111439-lrtkpcqttegf3dih2kmjjvdse07q3dgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fin_grading",
+            "certificate_hash": "e1faa1bb7e397d5ca08cfdbbec3b1607e0de0809"
+          }
+        },
+        {
+          "client_id": "1028115111439-uun3bmu0j3jfsmm5bnvfb10cdak8vgjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQHV5dDI6_SZ1Y0XhJmDVjiYY2vjMHInw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028115111439-uun3bmu0j3jfsmm5bnvfb10cdak8vgjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
